@@ -1,1 +1,2 @@
-# term-paper-spring-2025
+# Term paper spring 2025
+
