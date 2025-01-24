@@ -50,7 +50,7 @@ Frågan BonJour reser i artikelns titel är alltså hur kunskap om verkligheten 
 .IP
 .ps 10
 .vs 12
-Figur 1. I (a) ser vi en oändling regress till följd av att $S$ knows $p$ iff $q sub 1$, vilket leder till oändlig följd av utsagor $q sub i, i=1 ... \[if]$.
+Figur 1. I (a) ser vi en oändling regress till följd av att $S$ knows $p$ iff $q sub 1$, vilket leder till oändlig följd av utsagor $q sub i$, $i=1 ... \[if]$.
 I (b) når regressen ett slut vid utsaga $q sub n$,
 som är självklar (self evident) och behöver därför inget bevis.
 Det är en fundamentistisk (svenska för foundationalism) bild av vad som sker när regressen bryts.
