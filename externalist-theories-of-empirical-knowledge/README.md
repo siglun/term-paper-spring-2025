@@ -1,0 +1,1 @@
+# thinking aloud about Laurence Bonjour's paper Externalist theories of empirical knowledge
