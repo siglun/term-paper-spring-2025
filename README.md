@@ -1,2 +1,2 @@
-# Term paper spring 2025
+# Term paper(s) spring 2025
 
