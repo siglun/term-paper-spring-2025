@@ -5,20 +5,23 @@
 .nr PO 2.5c
 .nr PS 12
 .nr VS 14
-.ds MONTH1 January
-.ds MONTH2 February
-.ds MONTH3 March
-.ds MONTH4 April
-.ds MONTH5 May
-.ds MONTH6 June
-.ds MONTH7 July
-.ds MONTH8 August
-.ds MONTH9 September
-.ds MONTH10 October
-.ds MONTH11 November
-.ds MONTH12 December
+.nr PI 2m
+.ds REFERENCES Litteratur
+.ds MONTH1 januari
+.ds MONTH2 februari
+.ds MONTH3 mars
+.ds MONTH4 april
+.ds MONTH5 maj
+.ds MONTH6 juni
+.ds MONTH7 juli
+.ds MONTH8 augusti
+.ds MONTH9 september
+.ds MONTH10 oktober
+.ds MONTH11 november
+.ds MONTH12 december
 .ds MO \E*[MONTH\n[mo]]
-.ds DY \*[MO] \n[dy], \n[year]
+.\"ds DY \*[MO] \n[dy], \n[year]
+.ds DY \n[dy] \*[MO] \n[year]
 .EQ
 delim $$
 .EN
