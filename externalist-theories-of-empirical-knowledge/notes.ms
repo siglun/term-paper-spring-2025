@@ -8,8 +8,23 @@ I titeln till \(rqExternalist theories of empirical knowledge\(rq av
 \&
 .[\&
 #
-Bonjour 1980
+Bonjour 1980 midwest
+.]\**
+.FS
+.na
+Jag läste texten i
+.[\~
+#
+Bonjour 2000  bernecker dretske
 .]\&
+men citerar text ur\&
+.[\~
+#
+Bonjour 1980 midwest
+.]\&
+Se
+.pdfhref W -D https://fphil.uniba.sk/fileadmin/fif/katedry_pracoviska/kfdf/Personal/Nuhlicek/Literatura/Teorie_zdovodnenia/BonJour__L._-_Externalist_Theories_of_Empirical_Knowledge__1980_.pdf  http://bit.ly/4aNBv2h
+.FE
 är \fIEmpirical knowledge\fP ett nyckelord,
 \fIexternalist theories\fP ett annat.
 Enligt
@@ -27,9 +42,21 @@ enligt vilket personen måste ha insikt i de förhållanden som gör övertygels
 .QE
 .LP
 Frågan BonJour reser i artikelns titel är alltså hur kunskap om verkligheten (empirism) kan inhämtas utan att inhämtaren behöver ha insikt i hur inhämtningen går till (externalism).
-.PS 4 2
+.QS
+.PS
 .so figur1.ms
+.\"so test.ms
 .PE
+.IP
+.ps 10
+.vs 12
+Figur 1. I (a) ser vi en oändling regress till följd av att $S$ knows $p$ iff $q sub 1$, vilket leder till oändlig följd av utsagor $q sub i, i=1 ... \[if]$.
+I (b) når regressen ett slut vid utsaga $q sub n$,
+som är självklar (self evident) och behöver därför inget bevis.
+Det är en fundamentistisk (svenska för foundationalism) bild av vad som sker när regressen bryts.
+I ett internalistiskt scenario äger hela kedjan av inferenser rum i medvetandet,
+medan externalistismed tillåter att kedjan äger rum utanför.
+.QE
 .SH
 Anteckningar
 .IP 1.
@@ -47,3 +74,8 @@ Extemalist theories,
 the topic of the present paper,
 represent one species of foundationalism.
 .QE
+.IP 3.
+Jag har försökt visualisera fundamentismen i Figur 1,
+och där beskriver jag också hur den samverkar med externalism och internalism.
+.IP 4.
+
