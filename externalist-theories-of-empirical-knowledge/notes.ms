@@ -76,5 +76,46 @@ represent one species of foundationalism.
 .IP 3.
 Jag har försökt visualisera fundamentismen i Figur 1,
 och där beskriver jag också hur den samverkar med externalism och internalism.
-.IP 4.
+I figuren visas en serie deduktioner av typen (se Ekvation 1).
+.EQ (1)
+pile {
+S ~ roman "knows that" ~ p ~ iff ~ q sub 1
+above
+S ~ roman "knows that" ~ q sub 1 ~ iff ~ q sub 2
+above
+S ~ roman "knows that" ~ q sub 2 ~ iff ~ q sub 3
+above
+S ~ roman "knows that" ~ q sub 3 ~ iff ~ q sub 4
+above
+...
+above
+S ~ roman "knows that" ~ q sub n-1  ~ iff ~ q sub n
+}
+.EN
+.IP 4
+Om $n -> \[if]$ har vi en oändlig regress. Om utsagan $q sub n$ är sann för ett ändligt $n$ har vi ett basalt, självklart faktum att stå på. Och så vidare.
+Denna serie med utsagor kallas för det epistemiska rättfärdigandet (\fIepistemic justification\fP).
+BonJour för en detaljerad diskussion om vilka skyldigheter vi som tror oss veta har när det gäller detta rättfärdigande. Han hänvisar till\~
+.[\&
+#
+Chisholm 1977
+.]\&
+\&\**
+.FS
+Jag har inte kontrollerat den referensen.
+Slarvigt men mänskligt.
+.FE
+och skriver:
+.QS
+[...] one’s purely intellectual duty is to accept beliefs that are true,
+or likely to be true,
+and reject beliefs that are false,
+or likely to be false.
+To accept beliefs on some other basis is to violate one’s epistemic duty-to be,
+one might say,
+epistemically irresponsible\(emeven though such acceptance might be desirable or even mandatory from some other,
+non\(emepistemic standpoint.
+.QE
+.IP 5.
+Lägg begräpper epistemisk ansvarslöshet (\(rqepistemically irresponsible\(rq) på minnet. Han använder det vid flera tillfällen i texten.
 
