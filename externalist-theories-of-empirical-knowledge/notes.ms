@@ -45,17 +45,16 @@ Frågan BonJour reser i artikelns titel är alltså hur kunskap om verkligheten 
 .QS
 .PS
 .so figur1.ms
-.\"so test.ms
 .PE
 .IP
 .ps 10
 .vs 12
-Figur 1. I (a) ser vi en oändling regress till följd av att $S$ knows $p$ iff $q sub 1$, vilket leder till oändlig följd av utsagor $q sub i$, $i=1 ... \[if]$.
-I (b) når regressen ett slut vid utsaga $q sub n$,
+Figur 1. (a) En oändling regress till följd av att $S$ knows $p$ iff $q sub 1$, vilket leder till oändlig följd av utsagor $q sub i$, $i=1 ... \[if]$.
+I (b) och (c) når regressen ett slut vid utsaga $q sub n$,
 som är självklar (self evident) och behöver därför inget bevis.
-Det är en fundamentistisk (svenska för foundationalism) bild av vad som sker när regressen bryts.
-I ett internalistiskt scenario äger hela kedjan av inferenser rum i medvetandet,
-medan externalistismed tillåter att kedjan äger rum utanför.
+Det är en fundamentistisk (svenska för foundationalism) bild av vad som sker när regressen bryts. De gröna ytorna representerar medvetna logiska processer.
+I ett internalistiskt scenario äger hela kedjan av inferenser rum i medvetandet (a) och (b),
+medan i (c) tillåter ett externalistiskt scenario att kedjan äger rum utanför, omedvetet.
 .QE
 .SH
 Anteckningar
