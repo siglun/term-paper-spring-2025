@@ -43,7 +43,7 @@ enligt vilket personen måste ha insikt i de förhållanden som gör övertygels
 .IP
 .ps 10
 .vs 12
-Figur 1. (a) En oändling regress till följd av att $S$ knows $p$ iff $q sub 1$, vilket leder till oändlig följd av utsagor $q sub i$, $i=1 ... \[if]$.
+Figur 1. (a) En oändlig regress till följd av att $S$ knows $p$ iff $q sub 1$, vilket leder till oändlig följd av utsagor $q sub i$, $i=1 ... \[if]$.
 I (b) och (c) når regressen ett slut vid utsaga $q sub n$,
 som är självklar (self evident) och behöver därför inget bevis.
 Det är en fundamentistisk (svenska för foundationalism) bild av vad som sker när regressen bryts. De gröna ytorna representerar medvetna logiska processer.
@@ -113,4 +113,24 @@ non\(emepistemic standpoint.
 .QE
 .IP 5.
 Lägg begräpper epistemisk ansvarslöshet (\(rqepistemically irresponsible\(rq) på minnet. Han använder det vid flera tillfällen i texten.
+.IP 6.
+BonJour för sedan en flera sidor lång diskussion om hur olika filosofer hanterat fundamentismen inom ramen för externalismen.
+Han konstaterar att få behandlar ämnet, men konstaterar den som kommit både längst och djupast är
+\&
+.[\&
+#
+armstrong
+.]\&.\**
+.FS
+Och nej, jag inte följt upp den referensen heller.
+.FE
+.IP 7.
+Enligt BonJour menar Armstrong att \fIS\fP knows that \fIp iff H\fP där $H$
+är en eller annan naturlag (\(rqlaw of nature\(rq):
+.QS
+Here $H$ may be as complicated as one likes and may include facts about the believer’s mental processes, sensory apparatus, environment, and so on.
+But presumably,
+though Armstrong does not mention this point, $H$ is not to include anything that would entail the truth of the belief; such a logical connection would not count as a law of nature.
+.QE
+.IP 8.
 
