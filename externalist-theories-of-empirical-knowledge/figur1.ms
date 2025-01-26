@@ -1,3 +1,4 @@
+.PS
 lineht=0.3;
 
 A: box invis "(a)";
@@ -10,9 +11,7 @@ box invis "$S$ knows that $q sub 1$ iff $q sub 2$";
 arrow down from last box .s;
 box invis "$S$ knows that $q sub 2$ iff $q sub 3$";
 arrow down from last box .s;
-box invis "...";
-
-
+END: box invis "...";
 
 move to A.e;
 move right 1.2;
@@ -43,4 +42,6 @@ box invis "...";
 arrow down from last box .s;
 box invis "$S$ knows that $q sub n-1$ iff $q sub n$";
 
+.\"move down 3.0 from END.sw;
+.PE
 

@@ -4,7 +4,8 @@ Anteckningar efter att ha läst Laurence BonJour
 Sigfrid Lundberg
 sigfrid@sigfrid-lundberg.se
 .LP
-I titeln till \(rqExternalist theories of empirical knowledge\(rq av
+.anfang I 3
+titeln till \(rqExternalist theories of empirical knowledge\(rq av
 \&
 .[\&
 #
@@ -32,20 +33,13 @@ Enligt
 .[\&
 #
 olsson kunskapsteori 2021
-.]\&
-.QS
-Då reliabilismen inte kräver att personen själv är medveten om den bakomliggande processen
+.]\&:
+\(rqDå reliabilismen inte kräver att personen själv är medveten om den bakomliggande processen
 eller dess tillförlitlighet sägs
 den svara mot en \fIexternalistisk\fP syn på kunskap.
 Motsatsen är ett \fIinternalistiskt\fP synsätt,
-enligt vilket personen måste ha insikt i de förhållanden som gör övertygelsen till kunskap.
-.QE
-.LP
-Frågan BonJour reser i artikelns titel är alltså hur kunskap om verkligheten (empirism) kan inhämtas utan att inhämtaren behöver ha insikt i hur inhämtningen går till (externalism).
-.QS
-.PS
+enligt vilket personen måste ha insikt i de förhållanden som gör övertygelsen till kunskap.\(rq
 .so figur1.ms
-.PE
 .IP
 .ps 10
 .vs 12
@@ -55,7 +49,6 @@ som är självklar (self evident) och behöver därför inget bevis.
 Det är en fundamentistisk (svenska för foundationalism) bild av vad som sker när regressen bryts. De gröna ytorna representerar medvetna logiska processer.
 I ett internalistiskt scenario äger hela kedjan av inferenser rum i medvetandet (a) och (b),
 medan i (c) tillåter ett externalistiskt scenario att kedjan äger rum utanför, omedvetet.
-.QE
 .SH
 Anteckningar
 .IP 1.
@@ -73,6 +66,8 @@ Extemalist theories,
 the topic of the present paper,
 represent one species of foundationalism.
 .QE
+.IP
+Frågan BonJour reser i artikelns titel är alltså hur kunskap om verkligheten (empirism) kan inhämtas utan att inhämtaren behöver ha insikt i hur inhämtningen går till (externalism).
 .IP 3.
 Jag har försökt visualisera fundamentismen i Figur 1,
 och där beskriver jag också hur den samverkar med externalism och internalism.
