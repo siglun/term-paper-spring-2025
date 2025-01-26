@@ -237,12 +237,13 @@ armstrong
 gör gällande att den framgångsrikt kan hanteras med externalistisk teori.
 .IP \n+[step].
 Antag att vi har ett lotteri med 100 lotter, numrerade $1 ... 100$.
-Vid dragning, kommer en av dem att vinna.
-Då har vi en mängd utsagor enligt Ekvation (2)
+Vid dragning kommer en av dem att vinna.
+Antag att vi har vi en mängd utsagor (100 stycken) enligt Ekvation (2)
 .EQ (2)
-roman "lott" ~ n ~ roman "kommer att förlora" ~ n=1 ... 100
+roman "lott" ~ n ~ roman "kommer att förlora"
 .EN
-.IP \n+[step].
+.IP
+för alla $n=1 ... 100$.
 Alltså har varje utsaga sannolikheten $99/100$ att vara sann,
 vilket i princip innebär att vi kan acceptera satsen \fI\(rqingen vinner i det lotteriet\(rq\fP som kunskap.
 Å andra sidan vet vi att detta är en felaktig slutsats.
