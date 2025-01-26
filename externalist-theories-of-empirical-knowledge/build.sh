@@ -7,5 +7,4 @@ pdf2ps notes.pdf
 psbook -s4 notes.ps | psnup -2 > folder.ps
 ps2pdf folder.ps
 
-
-
+rm folder.ps notes.ps
