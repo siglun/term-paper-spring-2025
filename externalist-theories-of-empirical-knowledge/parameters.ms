@@ -25,6 +25,7 @@
 .EQ
 delim $$
 .EN
+.mso tmac/anfang.tmac
 .R1
 sort "A+D+"
 reverse "A1E1"
