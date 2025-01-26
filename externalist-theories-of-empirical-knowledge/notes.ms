@@ -17,14 +17,15 @@ Jag läste texten i
 .[\~
 #
 Bonjour 2000  bernecker dretske
-.]\&
-men citerar text ur\&
+.]\&,
+men citerar den ur\&
 .[\~
 #
 Bonjour 1980 midwest
 .]\&
-Se
+(
 .pdfhref W -D https://fphil.uniba.sk/fileadmin/fif/katedry_pracoviska/kfdf/Personal/Nuhlicek/Literatura/Teorie_zdovodnenia/BonJour__L._-_Externalist_Theories_of_Empirical_Knowledge__1980_.pdf  http://bit.ly/4aNBv2h
+)
 .FE
 är \fIEmpirical knowledge\fP ett nyckelord,
 \fIexternalist theories\fP ett annat.
@@ -58,7 +59,7 @@ Bonjour 1980 midwest
 som en lista i den ordning jag kom på dem.
 .IP 1.
 Vi kan spetsa till BonJours fråga:
-Hur kan en \fIexternalistisk\fP kunskapsinhämtare kan hantera empiriska data ansvarsfullt,
+Hur kan en \fIexternalistisk\fP kunskapsinhämtare hantera empiriska data ansvarsfullt,
 när hen inte riktigt vet vad hen gör?
 .IP 2.
 BonJour konstaterar i introduktionen att en bra teori om empirisk kunskap skulle kunna lösa \(rqepistemic regress problem: the problem of how to avoid an infinite and presumably vicious regress of justification in one’s account of the justification of empirical beliefs.\(rq
@@ -69,7 +70,7 @@ Han tillägger
 Foundationalist theories of empirical knowledge,
 as we shall see further below,
 attempt to avoid the regress by locating a class of empirical beliefs whose justification does not depend on that of other empirical beliefs.
-Extemalist theories,
+Externalist theories,
 the topic of the present paper,
 represent one species of foundationalism.
 .QE
@@ -121,17 +122,18 @@ epistemically irresponsible\(emeven though such acceptance might be desirable or
 non\(emepistemic standpoint.
 .QE
 .IP 5.
-Lägg begräpper epistemisk ansvarslöshet (\(rqepistemically irresponsible\(rq) på minnet. Han använder det vid flera tillfällen i texten.
+Lägg begreppet \(rqepistemiskt ansvarslös\(rq (\(rqepistemically irresponsible\(rq) på minnet.
+Han använder det vid flera tillfällen i texten.
 .IP 6.
 BonJour för sedan en flera sidor lång diskussion om hur olika filosofer hanterat fundamentismen inom ramen för externalismen.
-Han konstaterar att få behandlar ämnet, men konstaterar den som kommit både längst och djupast är
+Han konstaterar att få behandlar ämnet, men finner att den som kommit både längst och djupast är
 \&
 .[\&
 #
 armstrong
 .]\&.\**
 .FS
-Och nej, jag inte följt upp den referensen heller.
+Och nej, jag har inte följt upp den referensen heller.
 .FE
 .IP 7.
 Enligt BonJour menar Armstrong att \fIS\fP knows that \fIp iff H\fP där $H$
@@ -144,7 +146,7 @@ But presumably,
 though Armstrong does not mention this point, $H$ is not to include anything that would entail the truth of the belief; such a logical connection would not count as a law of nature.
 .QE
 .IP 8.
-Denna naturlag $H$ fungerar lite som att läsa en termomenter:
+Denna naturlag, $H$, fungerar lite som att läsa en termomenter:
 .QS
 .ps 10
 .vs 12
@@ -183,7 +185,7 @@ so long as it is conceded to represent a coherent possibility.
 BonJour har valt sitt exempel med omsorg: Å ena sidan säger han att om synskhet är ett verkligt fenomen eller ej spelar inte så stor roll för hans argument,
 å andra sidan visar han genom sitt val hur, i hans ögon, befängd reliabilismen och externalismen är.
 .IP 11.
-BonJour gör fyra tankeexperiment baserade på synskhet, jag redogör endast för det första:
+BonJour gör fyra tankeexperiment baserade på synskhet, jag citerar endast det första:
 .QS
 .ps 10
 .vs 12
@@ -206,12 +208,14 @@ and her belief about the President did result from the operation of that power.
 .IP 12.
 Alla fyra fallen innehåller en synsk person som en huvudingrediens.
 Synskheten är ekvivalent med Armstrongs naturlag $H$.
-Dessutom är i alla tre fallen synskheten bekräftad, presidenten är faktiskt i New York city.\**
+Dessutom är i alla fyra fallen synskheten bekräftad,
+och presidenten är faktiskt i New York city i alla fyra fallen,
+för att undvika ett attentat.\**
 I övrigt vänder och vrider BonJour på de övriga komponenterna i sina scenarier.
 I det ögonblicket Samantha känner att presidenten är i New York,
 talar allt för att han ändå är i Washington DC.
-Det vill säga enligt Armstrongs externalistiska teori borde man acceptera hennes känsla som kunskap,
-men de flesta andra former av Justifiede True Belief (JTB) bör man betrakta hennes övertygelse som epistemiskt oansvarig.
+Det vill säga enligt Armstrongs externalistiska teori bör man acceptera hennes känsla som kunskap,
+men om man applicerar någon av alla andra former av \fBJ\fPustified \fBT\fPrue \fBB\fPelief (JTB) får man nog betrakta hennes övertygelse som epistemiskt oansvarig.
 .FS
 Intressant nog utsattes Ronald Reagan för ett attentat i mars månad 1981.
 BonJour publicerade sin artikel 1980.
@@ -226,7 +230,7 @@ Bonjour 1980 midwest
 Förkastar inte all externalistisk teori om empirisk kunskap.
 Det är mitt intryck att han tycker att den är absurd,
 och han tror inte att den har någon framtid.
-Jag är inte kompetent att hur dessa \fIGedankenexperiment\fP står sig idag.
+Jag är inte kompetent att avgöra hur dessa \fIGedankenexperiment\fP står sig idag.
 .IP 14.
 BonJour är en professionell filosof,
 som sådan måste han utsätta sina egna argument för en allvarlig prövning.
@@ -236,7 +240,7 @@ som han hänvisar till eftersom
 #
 armstrong
 .]\&
-gör gällande att den framgångsrikt kan hanteras av externalistisk teori.
+gör gällande att den framgångsrikt kan hanteras med externalistisk teori.
 .IP 15.
 Antag att vi har ett lotteri med 100 lotter, numrerade $1 ... 100$.
 Vid dragning, kommer en av dem att vinna.
@@ -246,9 +250,9 @@ roman "lott" ~ n ~ roman "kommer att förlora" ~ n=1 ... 100
 .EN
 .IP 16.
 Alltså har varje utsaga sannolikheten $99/100$ att vara sann,
-vilket i princip innebär att vi kan acceptera \fIingen vinner i det lotteriet\fP som kunskap.
+vilket i princip innebär att vi kan acceptera satsen \fI\(rqingen vinner i det lotteriet\(rq\fP som kunskap.
 Å andra sidan vet vi att detta är en felaktig slutsats.
-Exakt en måste vinna.
+Exakt en måste vinna i detta lotteri.
 .IP 17.
 Den externalistiska synpunkten kringår problemet.
 Exakt en vinner och ingen behöver bekymra sig om vad de ingenting vet.
