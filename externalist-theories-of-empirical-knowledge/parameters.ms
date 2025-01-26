@@ -5,7 +5,8 @@
 .nr PO 2.5c
 .nr PS 12
 .nr VS 14
-.nr PI 2m
+.nr PI 3m
+.nr QI 4m
 .ds REFERENCES Litteratur
 .ds MONTH1 januari
 .ds MONTH2 februari
