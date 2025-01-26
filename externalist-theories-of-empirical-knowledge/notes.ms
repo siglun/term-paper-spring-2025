@@ -254,7 +254,6 @@ Exakt en vinner och ingen behöver bekymra sig om vad de ingenting vet.
 Men, skriver BonJour:
 \(rqIn some ways, this is a neat and appealing solution to the paradox.
 Nonetheless, it seems doubtful that it is ultimately satisfactory.\(rq
-.IP
 Man sopar helt enkelt problemen under mattan.
 Det paradoxala i paradoxen försvinner.
 .IP \n+[step].
@@ -264,8 +263,13 @@ BonJour skriver i slutet:
 .ps 10
 Against an externalist position that seriously adopts such a gambit,
 the criticisms developed in the present paper are of course entirely ineffective.
-If the externalist does not want even to claim that beliefs satisfying his conditions are epistemically justified or reasonable,
-then it is obviously no objection that they seem in some cases to be quite unjustified and unreasonable.
+.QE
+.IP
+Externalisten bortser från all epistemiskt rättfärdigande:
+.QS
+.vs 12
+.ps 10
+If the externalist does not want even to claim that beliefs satisfying his conditions are epistemically justified or reasonable, then it is obviously no objection that they seem in some cases to be quite unjustified and unreasonable.
 .QE
 .IP \n+[step].
 BonJour inser alltså att hans argument kommer aldrig att övertyga en externalist.
