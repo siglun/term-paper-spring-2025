@@ -1,9 +1,5 @@
 .TL
-Anteckningar efter att ha läst Laurence BonJour\**
-.FS
-Denna text finns tillgängligt på github
-.pdfhref W -D https://github.com/siglun/term-paper-spring-2025/blob/main/externalist-theories-of-empirical-knowledge/notes.pdf https://bit.ly/3CkuAkd
-.FE
+Anteckningar efter att ha läst Laurence BonJour
 .AU
 Sigfrid Lundberg
 sigfrid@sigfrid-lundberg.se
