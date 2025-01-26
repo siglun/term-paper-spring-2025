@@ -7,6 +7,7 @@
 .nr VS 14
 .nr PI 3m
 .nr QI 4m
+.nr step 0 1
 .ds REFERENCES Litteratur
 .ds MONTH1 januari
 .ds MONTH2 februari

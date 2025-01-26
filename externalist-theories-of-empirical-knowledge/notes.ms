@@ -57,11 +57,7 @@ Nedan finner du mina tankar angående
 Bonjour 1980 midwest
 .]\&
 som en lista i den ordning jag kom på dem.
-.IP 1.
-Vi kan spetsa till BonJours fråga:
-Hur kan en \fIexternalistisk\fP kunskapsinhämtare hantera empiriska data ansvarsfullt,
-när hen inte riktigt vet vad hen gör?
-.IP 2.
+.IP \n+[step].
 BonJour konstaterar i introduktionen att en bra teori om empirisk kunskap skulle kunna lösa \(rqepistemic regress problem: the problem of how to avoid an infinite and presumably vicious regress of justification in one’s account of the justification of empirical beliefs.\(rq
 Han tillägger
 .QS
@@ -76,7 +72,7 @@ represent one species of foundationalism.
 .QE
 .IP
 Frågan BonJour reser i artikelns titel är alltså hur kunskap om verkligheten (empirism) kan inhämtas utan att inhämtaren behöver ha insikt i hur inhämtningen går till (externalism).
-.IP 3.
+.IP \n+[step].
 Jag har försökt visualisera fundamentismen i Figur 1,
 och där beskriver jag också hur den samverkar med externalism och internalism.
 I figuren visas en serie deduktioner av typen (se Ekvation 1).
@@ -86,16 +82,12 @@ S ~ roman "knows that" ~ p ~ iff ~ q sub 1
 above
 S ~ roman "knows that" ~ q sub 1 ~ iff ~ q sub 2
 above
-S ~ roman "knows that" ~ q sub 2 ~ iff ~ q sub 3
-above
-S ~ roman "knows that" ~ q sub 3 ~ iff ~ q sub 4
-above
 ...
 above
 S ~ roman "knows that" ~ q sub n-1  ~ iff ~ q sub n
 }
 .EN
-.IP 4
+.IP \n+[step]
 Om $n -> \[if]$ har vi en oändlig regress. Om utsagan $q sub n$ är sann för ett ändligt $n$ har vi ett basalt, självklart faktum att stå på. Och så vidare.
 Denna serie med utsagor kallas för det epistemiska rättfärdigandet (\fIepistemic justification\fP).
 BonJour för en detaljerad diskussion om vilka skyldigheter vi som tror oss veta har när det gäller detta rättfärdigande. Han hänvisar till\~
@@ -121,10 +113,13 @@ one might say,
 epistemically irresponsible\(emeven though such acceptance might be desirable or even mandatory from some other,
 non\(emepistemic standpoint.
 .QE
-.IP 5.
+.IP \n+[step].
 Lägg begreppet \(rqepistemiskt ansvarslös\(rq (\(rqepistemically irresponsible\(rq) på minnet.
 Han använder det vid flera tillfällen i texten.
-.IP 6.
+Vi kan spetsa till BonJours fråga:
+Hur kan en \fIexternalistisk\fP kunskapsinhämtare hantera empiriska data ansvarsfullt,
+när hen inte riktigt vet vad hen gör?
+.IP \n+[step].
 BonJour för sedan en flera sidor lång diskussion om hur olika filosofer hanterat fundamentismen inom ramen för externalismen.
 Han konstaterar att få behandlar ämnet, men finner att den som kommit både längst och djupast är
 \&
@@ -135,7 +130,7 @@ armstrong
 .FS
 Och nej, jag har inte följt upp den referensen heller.
 .FE
-.IP 7.
+.IP \n+[step].
 Enligt BonJour menar Armstrong att \fIS\fP knows that \fIp iff H\fP där $H$
 är en eller annan naturlag (\(rqlaw of nature\(rq):
 .QS
@@ -145,7 +140,7 @@ Here $H$ may be as complicated as one likes and may include facts about the beli
 But presumably,
 though Armstrong does not mention this point, $H$ is not to include anything that would entail the truth of the belief; such a logical connection would not count as a law of nature.
 .QE
-.IP 8.
+.IP \n+[step].
 Denna naturlag, $H$, fungerar lite som att läsa en termomenter:
 .QS
 .ps 10
@@ -156,7 +151,7 @@ A person whose beliefs satisfy this condition is in effect a reliable cognitive 
 and it is, according to Armstrong,
 precisely in virtue of this reliability that these basic beliefs are justified.
 .QE
-.IP 9.
+.IP \n+[step].
 Frågan är hur man kan studera naturlagen $H$ i ett \fIGedankenexperiment\fP?
 BonJours svar är: \fISynskhet\fP (\fIclairvoyance\fP).\**
 .FS
@@ -170,7 +165,7 @@ BonJours svar är: \fISynskhet\fP (\fIclairvoyance\fP).\**
 Clairvoyance,
 the alleged psychic power of perceiving or intuiting the existence and character of distant states of affairs without the aid of any sensory input, remains the subject of considerable scientific controversy.
 .QE
-.IP 10.
+.IP \n+[step].
 Han fortsätter:
 .QS
 .in \\n[QI]
@@ -184,7 +179,7 @@ so long as it is conceded to represent a coherent possibility.
 .IP
 BonJour har valt sitt exempel med omsorg: Å ena sidan säger han att om synskhet är ett verkligt fenomen eller ej spelar inte så stor roll för hans argument,
 å andra sidan visar han genom sitt val hur, i hans ögon, befängd reliabilismen och externalismen är.
-.IP 11.
+.IP \n+[step].
 BonJour gör fyra tankeexperiment baserade på synskhet, jag citerar endast det första:
 .QS
 .ps 10
@@ -205,7 +200,7 @@ Samantha does in fact have completely reliable clairvoyant power,
 under the conditions that were then satisfied,
 and her belief about the President did result from the operation of that power.
 .QE
-.IP 12.
+.IP \n+[step].
 Alla fyra fallen innehåller en synsk person som en huvudingrediens.
 Synskheten är ekvivalent med Armstrongs naturlag $H$.
 Dessutom är i alla fyra fallen synskheten bekräftad,
@@ -221,7 +216,7 @@ Intressant nog utsattes Ronald Reagan för ett attentat i mars månad 1981.
 BonJour publicerade sin artikel 1980.
 (Är Laurence BonJour faktiskt synsk?) 
 .FE
-.IP 13.
+.IP \n+[step].
 \&
 .[\&
 #
@@ -231,7 +226,7 @@ Förkastar inte all externalistisk teori om empirisk kunskap.
 Det är mitt intryck att han tycker att den är absurd,
 och han tror inte att den har någon framtid.
 Jag är inte kompetent att avgöra hur dessa \fIGedankenexperiment\fP står sig idag.
-.IP 14.
+.IP \n+[step].
 BonJour är en professionell filosof,
 som sådan måste han utsätta sina egna argument för en allvarlig prövning.
 För detta ändamål angriper han den så kallade lotteriparadoxen,
@@ -241,19 +236,19 @@ som han hänvisar till eftersom
 armstrong
 .]\&
 gör gällande att den framgångsrikt kan hanteras med externalistisk teori.
-.IP 15.
+.IP \n+[step].
 Antag att vi har ett lotteri med 100 lotter, numrerade $1 ... 100$.
 Vid dragning, kommer en av dem att vinna.
 Då har vi en mängd utsagor enligt Ekvation (2)
 .EQ (2)
 roman "lott" ~ n ~ roman "kommer att förlora" ~ n=1 ... 100
 .EN
-.IP 16.
+.IP \n+[step].
 Alltså har varje utsaga sannolikheten $99/100$ att vara sann,
 vilket i princip innebär att vi kan acceptera satsen \fI\(rqingen vinner i det lotteriet\(rq\fP som kunskap.
 Å andra sidan vet vi att detta är en felaktig slutsats.
 Exakt en måste vinna i detta lotteri.
-.IP 17.
+.IP \n+[step].
 Den externalistiska synpunkten kringår problemet.
 Exakt en vinner och ingen behöver bekymra sig om vad de ingenting vet.
 Men, skriver BonJour:
@@ -262,7 +257,7 @@ Nonetheless, it seems doubtful that it is ultimately satisfactory.\(rq
 .IP
 Man sopar helt enkelt problemen under mattan.
 Det paradoxala i paradoxen försvinner.
-.IP 18.
+.IP \n+[step].
 BonJour skriver i slutet:
 .QS
 .vs 12
@@ -272,9 +267,9 @@ the criticisms developed in the present paper are of course entirely ineffective
 If the externalist does not want even to claim that beliefs satisfying his conditions are epistemically justified or reasonable,
 then it is obviously no objection that they seem in some cases to be quite unjustified and unreasonable.
 .QE
-.IP 19.
+.IP \n+[step].
 BonJour inser alltså att hans argument kommer aldrig att övertyga en externalist.
-.IP 20.
+.IP \n+[step].
 Intressant nog föregriper BonJour den epistemiska dygdeteorin.
 10 år innan den slår igenom skriver han:
 .QS
