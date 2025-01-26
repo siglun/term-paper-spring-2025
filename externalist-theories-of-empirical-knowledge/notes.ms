@@ -168,7 +168,6 @@ the alleged psychic power of perceiving or intuiting the existence and character
 .IP \n+[step].
 Han fortsätter:
 .QS
-.in \\n[QI]
 .ps 10
 .vs 12
 Although many would like to dismiss out of hand the very idea of such a cognitive power,
