@@ -1,0 +1,4 @@
+[submodule "externalist-theories-of-empirical-knowledge/bib"]
+	path = externalist-theories-of-empirical-knowledge/bib
+	url = https://github.com/siglun/bibliographies.git
+	branch = main
